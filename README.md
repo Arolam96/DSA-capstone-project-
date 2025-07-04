@@ -244,7 +244,7 @@ Order By
 ### Palmora Group Data Visualisation
 
 ![Image Alt](https://github.com/Arolam96/DSA-capstone-project-/blob/d65ed0132cb2cbe9321a7c2e881fff6fd1152107/palmora%20group%20chart.jpg)
-![Image Alt](https://github.com/Arolam96/DSA-capstone-project-/blob/d65ed0132cb2cbe9321a7c2e881fff6fd1152107/palmora%20group%20chart.jpg)
+![Image Alt](https://github.com/Arolam96/DSA-capstone-project-/blob/e9cea547b7cc6eab7b9df5413518fe92fbfce3ea/palmora%20group%20chart%202.jpg)
   
   
 ## 👤 Author
