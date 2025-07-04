@@ -86,11 +86,37 @@ Provided by Data School Africa (DSA)
 ### KMS SQL File 
   https://github.com/Arolam96/DSA-capstone-project-/blob/1d2d4453efabc8b1a9570f5089571d9185e780b6/Kultra%20Mega%20Stores%20Inventory%20-%20SQL.sql
 
+### Answer to Question 11 
+### Findings:
+	1.	High Priority Orders (Critical, High):
+	•	Should be shipped using Express Air (fastest), even if expensive.
+	•	However, most expensive shipping cost is via Delivery Truck ($45–47), which is actually the slowest, and is being used for Critical and High orders.
+	•	Express Air cost is only ~$8.7, yet it’s underused where it should be prioritized.
+	2.	Low Priority Orders (Low, Medium, Not Specified):
+	•	Should ideally be shipped via Delivery Truck to minimize cost.
+	•	But most are shipped using Express Air and Regular Air, even though speed isn’t required.
+	•	For example:
+	•	Low Priority + Express Air = $8.17
+	•	Not Specified + Express Air = $8.17
+	•	These could have been handled more economically.
+
+### Conclusion: Shipping cost allocation is not appropriate.
+	•	The slowest method (Delivery Truck) is being used for Critical and High orders, despite its high cost, which defeats the urgency logic.
+	•	Meanwhile, Express Air is used more for Low/Not Specified priority orders — where speed is not required, leading to unnecessary spending.
+	•	This suggests inefficient logistics planning: neither speed nor cost optimization is aligned with order priority.
+
+### Recommendation:
+	•	Re-align shipping methods:
+	•	Use Express Air only for Critical & High priority.
+	•	Use Delivery Truck or Regular Air for Low/Medium/Not Specified to control cost.
+
 ### Palmora Group Data Visualisation
 
 ![Image Alt](https://github.com/Arolam96/DSA-capstone-project-/blob/d65ed0132cb2cbe9321a7c2e881fff6fd1152107/palmora%20group%20chart.jpg)
 ![Image Alt](https://github.com/Arolam96/DSA-capstone-project-/blob/e9cea547b7cc6eab7b9df5413518fe92fbfce3ea/palmora%20group%20chart%202.jpg)
 ![Image Alt](https://github.com/Arolam96/DSA-capstone-project-/blob/df7b07871c74074ec3d3cce975e6db2d9733191d/palmora%20group%20chart%203.jpg)
+
+
   
 ## 👤 Author
 
