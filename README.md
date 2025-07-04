@@ -242,7 +242,7 @@ Order By
 
 
 ### Palmora Group Data Visualisation 
-
+https://github.com/Arolam96/DSA-capstone-project-/blob/main/palmora%20group%20chart.jpg
 
 
 
