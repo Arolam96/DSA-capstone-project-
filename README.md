@@ -72,7 +72,7 @@ Provided by Data School Africa (DSA)
 - Calculated total compensation (base salary + bonus)
 - Aggregated bonus payouts by region and company-wide
   
-###Techniques Applied
+### Techniques Applied
 - Developed DAX measures to answer business-specific questions
 - Used Power Query to clean data and remove invalid entries
 - Managed data relationships using appropriate cardinality (e.g., employee to bonus rule table)
